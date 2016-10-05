@@ -1,0 +1,6 @@
+{
+  "name": "Des in programmingland",
+  "tagline": "Kinda feeling like Alice since I've tumbled down the programming rabbit hole!",
+  "body": "Your intrepid narrator is a novice programmer. These are the logs of my travels and travails teaching myself how to code. I try to annotate as much as possible to make the learning curve a little less steep for novices. The intended audience are other beginners who want to get started using shell scripting (in bash), python, R, LaTeX and flavors of Markdown, but of course, everyone is welcome! I also welcome constructive comments and suggestions on post content and for topics to cover, so stay in touch if you like!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
